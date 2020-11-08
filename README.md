@@ -1,3 +1,7 @@
+## Table of Contents
+* [Top](<#top>)
+
+### Notes
 - Items with parenthesis are the unique keywords (meaning you cannot build two items with the same keywords)
 
 - Mythic items will have their mythic passive stat next to them, each completed item minus the mythic itself  and boots
@@ -10,7 +14,7 @@
 
 - Suggest champions/specific items to me
 
-# Top:
+## Top:
 * Bruisers: \
     There are a lot of items that give pseduo lifesteal in that they dont have the stat lifesteal, but gives back a lot of hp through passives. A lot of health items not a lot of great items for resists.
     * **Trinity**(Mythic - 10 Attack Speed) - Gives spellblade and in champion combat base AD: Really good for champions that can utilize attack Speed
