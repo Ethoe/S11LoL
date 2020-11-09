@@ -42,8 +42,8 @@
     * **Demonic Embrace**() - Magic damage starts a 1.5% maxhp burn as well as 10armor/mr + 2.5 for every additional champ affected. This item is good on like Mord only, don't listen to people who want to build this + liandries.
  * _Tank:_ \
   Right so tank items kinda suck butt so I can see a lot of tanks poaching bruiser/mage items to become more effective. There are 3 main tank mythics and 2 supporty tank items which I will go over under the support itemization. All 3 tank mythics have the current sunfire passive.
-  * **Sunfire Aegis**(Mythic - 5 Ability Haste) - Immolate passive that has stacking dmg in combat, at max stacks autoattacks add the immolate dmg. This is the best general tank mythic as the damage it adds for free is so important. Anyone that can stick on people should take this.
-  * **Frostfire Guantlet**(Mythic - 100 Health + 7.5% Size) - Current iceborn passive but it applies on any autoattack with a 4s cd. This is armor focused mythic and it is nice that it doesnt have mana on it so it opens it up to non mana users. Rejoice that iceborn ez is now dead :crab:
-  * **Turbo Chemtank**(Mythic - 5% Tenacity) - Basically righteous glory that is magic resist focused. Fine item but really underwhelming as a mythic probably better to choose a diffrent mythic that suits your needs better.
+    * **Sunfire Aegis**(Mythic - 5 Ability Haste) - Immolate passive that has stacking dmg in combat, at max stacks autoattacks add the immolate dmg. This is the best general tank mythic as the damage it adds for free is so important. Anyone that can stick on people should take this.
+    * **Frostfire Guantlet**(Mythic - 100 Health + 7.5% Size) - Current iceborn passive but it applies on any autoattack with a 4s cd. This is armor focused mythic and it is nice that it doesnt have mana on it so it opens it up to non mana users. Rejoice that iceborn ez is now dead :crab:
+    * **Turbo Chemtank**(Mythic - 5% Tenacity) - Basically righteous glory that is magic resist focused. Fine item but really underwhelming as a mythic probably better to choose a diffrent mythic that suits your needs better.
   
 
