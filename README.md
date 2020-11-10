@@ -13,7 +13,7 @@
 - Mythic items will have their mythic passive stat next to them, each completed item minus the mythic itself  and boots
   will give that stat.
 
-- Ability haste is the percent more spells that you can cast, 100 haste means you can cast your ability 100% more times, twice as much\
+- Ability haste is the percent more spells that you can cast, 100 haste means you can cast your ability 100% more times, twice as much. There is no cap to haste.\
   65 haste ~~ 40cdr\
   100 haste ~~ 50cdr\
   15 haste ~~ 13cdr
@@ -104,10 +104,24 @@
   * **Cosmic Drive**() - Basically like an AP phage item, dmging a champ gives you movespeed based on current ability haste. I could see kiting champs like cass or ryze using this potentially.
   * **Rabadon's Deathcap**() - Same as before but it is now the most expensive item in the game by a long shot at 3800g. Hard to invest into but you get that raw AP.
   
-  
-  
-  
-  
 ## ADC:
-
+### _ADCs:_
+  In my opinion the ad item changes are the biggest change in the preseason and I can't be sure what optimal builds are going to be. There is so much crit in every item that makes it easy to get but to compansate crits do 175% dmg rather than 200%. Every item that gives crit gives 20% and I will note which items below do not give crit.
+  * **Galeforce**(Mythic - 3% Movespeed) - Active that dashes and deals a little bit of magic dmg to nearest target. If you really want a dash you can build this and the movespeed it gives can allow for selling boots for 6th item. This is a high skillcap item so not sure how effective it can be.
+  * **Kraken Slayer**(Mythic - 10% Attack Speed) - This is the overall highest dps ADC item that gives true dmg every 3rd hit. If you can safely dps you should build this item.
+  * **Immortal Shieldbow**(Mythic - 5 AD + 50 Health, Lifeline) - If taking dmg that reduces you below 30% it gives flat shield that scales off of level. You buy this if you want to survive an assassin. This is a shield + health item + lifesteal item which is so good for staying alive and kind of beckons back to bloodthirster rush for lane.
+  * **Manamune**(Mana Stack) - Not a crit item, and its passive now applies on all damaging abilities not just single target which makes it stronger for kaisa lucian and the like. 
+  * **Guinsoo's Rageblade**() - An insanely interesting item, gives you onhit dmg based on crit chance and removes the ability to crit, also applies onhit twice every 3 autos. This item is actually stronger than IE until you get 100% crit chance with no onhits, so people that does have onhits become very strong with this item now like kog, kaisa, even kalista. You cannot buy this item and IE together.
+  * **Mortal Reminder**() - A grievous item that builds out of zeal, one of the weakest zeal items but lets you spec into grievous without sacrificing your build too much. 
+  * **Rapid Firecannon**() - Same
+  * **Stormrazer**() - Same
+  * **Lord Dominik's Regards**() - Same but with crit on it
+  * **Phantom Dancer**() - No longer has lifeline but gives stacking attackspeed up to 40% attackspeed, this is highest single target zeal item now. 
+  * **Mercurial Scimitar**() - Has crit, removed lifesteal but same active. Having crit lets you upgrade qss without feeling too bad anymore.
+  * **Essence Reaver**() - Now is a spellblade (sheen) passive that does extra dmg and gives back 3% mana after autoattacking after using an ability. I think this is now better on some essence reaver champs like lucain, but xayah might be a bit weaker now because she can't sheen proc as often. 
+  * **Infinity Edge**() - Gain 8% crit dmg per 20% crit chance. This item is less important to build early now and is sort of like an AD deathcap in that it amplifies the stats that you already have. It is the highest dps item you can build at 3 items though you dont have a lot of attack speed and there are other defensive effects that you could look to pick up at that point.
+  * **Bloodthirster**() - Has crit on it and can be viable as an early item as a compliment to a mythic that is not shieldbow. 
+  * **Runaan's Hurricane**() - This item had its bolts slightly buffed for ad champions and has AD in the item now. This means that is a slight nerf to onhit only champions but stronger for crit champions to buy.
+  * **Navori Quickblades**() - Crit strikes reduce non-Ultimate Ability cd's by 20% of remaining cooldown. Now before you think this is a broken item, you need to remeber that it is only at full effectiveness with 100% crit chance and so in late game fights the enemies have more tools to counter and catch the user. This is a late game item that has late game power, but you need to get to late game which is where its weakness lies. 
+  
 ## Support:
