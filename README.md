@@ -32,7 +32,7 @@
    * **Silvermere Dawn**(Quicksilver) - This is a qss item that has health and both resists for stats, I dont see who would build this as someone who wants resists will likely survive being hit with cc. So maybe this is for engagey champions like Amumu or a tank that wants to get out of Mord ult. Weird niche item
    * **Maw of Malmortius**(Lifeline) - Similar stats to current maw but the passive is just a shield not the extra lifesteal portion and the sheild scales off of max HP. More usable for bruisers than current now imo.
    * **Death's Dance**() - No lifesteal on it, and only absorbs physical dmg. On kill cleanses bleed, and restores 10% hp over 2s. Good item, feels like they tried to make it more of a physical maw, but it is stronger. I feel like this item will be built often on bruisers.
-   * **Ravenous/Titanic**(Hydra) - Similar to current, no active on either and Hydra has omnivamp on it. Similar power to current due to that.
+   * **Ravenous/Titanic**(Hydra) - Similar to current, no active on either and ravenous has omnivamp on it. Similar power to current due to that.
    * **Black Cleaver**() - More expensive, gives less health and no movespeed passive, so before fully stacked it is weaker, but if you can get it stacked it does 5% missing health dmg each physical dmg hit. Really really strong on people who can stack this quickly(Riven, Darius come to mind)
    * **Wit's End**() - AD + AtSpd + MR, no lifesteal on it and now has movespeed passive. Feels like an irelia/jax item vs an ap top.
    * **Blade of the Ruined King BORK**() - No active, changed to 3hit to proc with 20s cd. Build on champions that do not have an issue with chasing like irela/jax and ranged champs. Champions like idk bruiser shyv, udyr, even master yi maybe like this item less, but if you can reliably get the three hit it feels stronger.
@@ -114,7 +114,7 @@
   * **Guinsoo's Rageblade**() - An insanely interesting item, gives you onhit dmg based on crit chance and removes the ability to crit, also applies onhit twice every 3 autos. This item is actually stronger than IE until you get 100% crit chance with no onhits, so people that does have onhits become very strong with this item now like kog, kaisa, even kalista. You cannot buy this item and IE together.
   * **Mortal Reminder**() - A grievous item that builds out of zeal, one of the weakest zeal items but lets you spec into grievous without sacrificing your build too much. 
   * **Rapid Firecannon**() - Same
-  * **Stormrazer**() - Same
+  * **Stormrazor**() - Same
   * **Lord Dominik's Regards**() - Same but with crit on it
   * **Phantom Dancer**() - No longer has lifeline but gives stacking attackspeed up to 40% attackspeed, this is highest single target zeal item now. 
   * **Mercurial Scimitar**() - Has crit, removed lifesteal but same active. Having crit lets you upgrade qss without feeling too bad anymore.
@@ -125,3 +125,21 @@
   * **Navori Quickblades**() - Crit strikes reduce non-Ultimate Ability cd's by 20% of remaining cooldown. Now before you think this is a broken item, you need to remeber that it is only at full effectiveness with 100% crit chance and so in late game fights the enemies have more tools to counter and catch the user. This is a late game item that has late game power, but you need to get to late game which is where its weakness lies. 
   
 ## Support:
+  * **Vigilant Wardstone**() - This is them most important support item that should be built every game. This item holds 3 control wards and lets you place 4 stealth wards and 2 control wards on the map. **Every support builds this every game.**
+### _Tanks:_
+  Tanks have weaker items this season imo, so gone are the days of leo or alistar solo tanking your team with just gargoyles. That being said I feel like engage/utility tanks still have a place to be strong. 
+  * **Shurelya's Battlesong**(Mythic - 2.5% Movespeed) - Active that gives movespeed to all allies and gives magic dmg on autos and abilities to each ally for 3 hits. This is a good engage mythic that lets people like rakan and maybe alistar to start a fight and buff their team with around 150 extra dmg to each ally.
+  * **Locket of the Iron Solari**(Mythic - Adds 2.5 armor/mr to passive) - Passive is gives all allies 5 armor/mr near user also has an active shield scaling on level from 250-420. This is good for tankier supports that like to peel for their team like taric or thresh. Has a lot of hidden power and just makes your entire team tankier for free.
+  * **Knight's Vow**() - This item has a lot of health regen on it but no longer has armor. Its active binds you with someone (not nerfed for ranged champs anymore) and it no longer heals you for damage they do. Fine item and people like thresh can take this now without penalty. It does not make you tanky at all really.
+  * **Zeke's Convergence**() - Active to bind with an ally. After hard ccing an enemy your binded's autos and abilities do extra magic damage based on your HP and AP for 4s. For one thing this passive is a lot easier to understand now and makes it so its not locked to your ult so you will be able to utilize it for frequently. Look to target the same champ as your carry is hitting.
+
+### _Utility:_
+  Utility supports have a lot of great items to spec into and will be able to get around 60 haste with just the mythic and ward item.
+  * **Imperial Mandate**(Mythic - 15 AP) - CCing a champion will deal an extra flat magic dmg based on level and mark them, an ally dmg pops the mark dealing the dmg again and giving you movespeed. This is a great item for poking mage supports that add free damage to Zyra, Brand, Bard, even champs like Janna and Yuumi can use this item to just inflate the damage your team has. 
+  * **Moonstone Renewer**(Mythic - 5 Ability Haste) - When in combat restore a flat amount of hp to lowest ally every 2s, each second in combat makes this heal bigger up to 150%. This is an item that I think should be the default for almost every utility support due to the amount of health you will be giving over the course of the game. In a 20s fight you will restore almost 1000hp to your team and it just keeps going.
+  * **Chemtech Putrifier**() - Support Grievous item, it allows the support to build a grievous item without sacraficing too much. I do think that other classes should buy grievous before a support does, but if it is truely needed then it is a good choice.
+  * **Redemption**() - Same
+  * **Mikael's Blessing**() - Same but it also restores 100-200 HP. This is just a nice little change that helps survivability.
+  * **Ardent Censer**() - Same
+  * **Staff of Flowing Water**() - Healing or shielding an ally gives both units 15% movespeed and 20-40ap based on level. This feels like an ardent that is bought for AP carries rather than ADCs. Good for if you have a mage bot lane carry with you.
+  
