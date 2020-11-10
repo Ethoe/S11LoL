@@ -81,7 +81,33 @@
   * **Sanguine Blade**() - Same but gives physical vamp rather than lifesteal now so a bit better for casting assassins
   * **The Collector**() - This is a very strange item, combining the components into this item actually makes you lose 5ad but its passive is that if a target would be left under 5% hp it executes them. Again before you build this every game 5% of 2000 hp is 100hp so this is actually better for tankier targets. It also having crit on it somewhat limits who can build this effectively.
   * **Serylda's Grudge**(Last Whisper) - More of an ad caster item, somewhat of an AD rylais. I'm not sure who builds this yet, but could be an interesting item.
-
+### _AP Assassins:_
+  Generally AP Assassins are going to take one of three mythics and then mage items so this section will only be the Mythics and the rest of the AP items will be covered under the mage category. Also note that a lot of mages won't take these mythics because they do not have any mana on them so they run oom really quickly.
+  * **Hextech Rocketbelt**(Mythic - 5 Magic Pen) - Same as current protobelt but it also gives movespeed towards enemy champs for 2s after using it. This is a really nice item because of the magic pen passive it has, there is only one other way to get magic pen in items and that is boots. The mobility is nice so a lot of the champs that built this before will still build this despite the increased price.
+  * **Riftmaker**(Mythic - 5% Magic Pen) - This feels like it would be a AP Bruiser item though I think this can be taken on a lot of different champs that can stay in the fight. It gives you increased dmg for how long you are in the fight up to 15% and once its at 15% the bonus dmg is true dmg it also has omnivamp on it. This feels like a Vlad/Akali item and _maybe_ for bruisers against a tank. The % pen and omnivamp feels really nice on pretty much anyone that can build this.
+  * **Night Harvester**(Mythic - 5 Ability Haste) - Hitting a champ deals bonus dmg and gives you movespeed with a 40s cd per champion. This feels more like a traditional assassin item. The bonus dmg upfront helps with burst and the movespeed helps chase or get out after bursting. 
+### _Mages:_
+  Honestly most of these items are pretty ResidentSleeper to me as they are very similar to the current selection of mage items. There are some interesting new choices for artillery mages and kiting mages but less mana options overall.
+  * **Liandry's Anguish**(Mythic - 5 Ability Haste) - This item now has an ap scaling on the %max health burn and shreds magic resist. It puts a lot of pressure on high hp targets over the course of the fight and is really obnoxious for any target you hit. The burn can kill and for some reason burns through shields, as in it does not do dmg to shields and will still hit your main hp. Really nuts item if you can constantly apply it and also want the haste that it gives.
+  * **Luden's Tempest**(Mythic - 5 Magic Pen) - Now it still has the extra dmg splash it has a flat 10s cd and gives 30% movespeed for 2s. This is strictly a better version of the current Luden's and with magic pen in its final item as well as its passive means that it is really strong against squishy targets.
+  * **Everfrost**(Mythic - 15 AP) - Active for slowing bolts in a cone, targets in the center get _rooted_ for 1.5s with a 20s cd. The active is so amazing, champs like sylas love this item. He is able to get on them and hit the root for free extra cc in his kit. This with the fact that it is on a 20s cd is nuts, so you want to build this with anyone that can already lock someone down to land the root in succession.
+  * **Mejai's Soulstealer**() - Same
+  * **Banshee's Veil**() - Same
+  * **Void Staff**() - Same _but_ it has a component with magic pen on it so you feel the pen without finishing the full item which makes building into this feel better.
+  * **Zhonya's Hourglass**() - Same
+  * **Morellonomicon**() - Same with some changes. The grievous effect is stronger when the target is below 50% hp, so it helps let you finish off targets. Also its build component has grievous on it so you can just sit on the component if needed.
+  * **Archangel's Staff**(Mana Stack) - Same but no active so you do not get the sheild anymore and no haste, but you get more AP from its passive. Note: Tear is different but I will go over that in the starting items section.
+  * **Lich Bane**() - No longer has mana or haste on it. No mana opens this item up to more champions without feeling like you are wasting gold in stats.
+  * **Nashor's Tooth**() - More ap, no haste. No haste hurts champions like azir building this but honestly this item feels like it was build for kai'sa. 100 AP to give her evolve off of one item and the haste was somewhat a wasted stat on her.
+  * **Rylai's Crystal Scepter**() - Same
+  * **Horizon Focus**() - New item where damaging a champion with a skillshot from over 750 range or hard ccing them reveals them and increases your dmg to them by 10% for 6s. This feels like a must build for high range mages as it pretty much just gives you a flat 10% dmg increase. Xerath, Ziggs, Zoe, even Syndra could use this.
+  * **Cosmic Drive**() - Basically like an AP phage item, dmging a champ gives you movespeed based on current ability haste. I could see kiting champs like cass or ryze using this potentially.
+  * **Rabadon's Deathcap**() - Same as before but it is now the most expensive item in the game by a long shot at 3800g. Hard to invest into but you get that raw AP.
+  
+  
+  
+  
+  
 ## ADC:
 
 ## Support:
