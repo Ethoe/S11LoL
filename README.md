@@ -4,6 +4,7 @@
 * [Mid](<#mid>) - AD Assassins, AP Assassins, Mages
 * [ADC](<#adc>) - ADCs...
 * [Support](<#support>) - Tanks, Utilities
+* [Starting Items](<#starting>)
 
 ### Notes:
 - Use [this site](https://lolshop.gg/) to look at the full item list
@@ -12,11 +13,15 @@
 
 - Mythic items will have their mythic passive stat next to them, each completed item minus the mythic itself  and boots
   will give that stat.
+  
+- You will build a mythic first item most of the time. I'm not sure what builds that 
 
 - Ability haste is the percent more spells that you can cast, 100 haste means you can cast your ability 100% more times, twice as much. There is no cap to haste.\
   65 haste ~~ 40cdr\
   100 haste ~~ 50cdr\
   15 haste ~~ 13cdr
+
+- Boots are the same as before but **Ninja Tabis** have been renamed to **Plated Steelcaps**.
 
 - Suggest champions/specific items to review to me(Ethoe)
 
@@ -142,4 +147,15 @@
   * **Mikael's Blessing**() - Same but it also restores 100-200 HP. This is just a nice little change that helps survivability.
   * **Ardent Censer**() - Same
   * **Staff of Flowing Water**() - Healing or shielding an ally gives both units 15% movespeed and 20-40ap based on level. This feels like an ardent that is bought for AP carries rather than ADCs. Good for if you have a mage bot lane carry with you.
+  
+## Starting:
+  * **Emberknife/Hailblade**() - Deals more dmg and restores mana versus jungle camps. The item disappears and gives you its stats after 5 smites. The only difference is red smite/blue smite when you buy the item.
+  * **Dark Seal**() - No longer has the extra pot regen passive so you aint stacking it any more singed. 
+  * **Doran's Ring** - Stackable, deal 5 on hit dmg to minions and restores 6mana on minion kill. If you are full mana or don't have mana you restor 3 health instead. Great starting item and even stronger for non mana champs now. 
+  * **Tear of the Goddess**(Mana Stack) - **DO NOT START THIS, I REPEAT DO NOT START THIS** you can now buy this at the start of the game but it gives no useful stats, not even for mana. It's max stacks is 450 mana and you need to use a damaging spell to stack this, it double stacks if you hit an enemy champion. It does not refund any mana and does not give the mana from the stack. If you want this early shove the first 3 waves and cheater recall for this.
+  * **Support Items**() - These are the same.
+  * **Doran's Shield** - Stackable, now restores up to 40 hp over 8s after taking dmg from champion or large jungle monster. I'm not sure of the power level of this versus the current Dshield.
+  * **Doran's Blade** - Stackable, gives 2.5% omnivamp reduced for AoE attacks. This is good and helps spellcasters sustain. It was capped on how much health it gives back on PBE but I'm not sure if they kept that.
+  * **Cull**() - Same
+  * **Corrupting Potion** - Same
   
